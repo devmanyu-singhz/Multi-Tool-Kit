@@ -1,0 +1,10 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.main-heading{
+    background-color: aqua;
+}
